@@ -4,7 +4,7 @@
 tag: Easy, General Skills, picoCTF 2021
 
 ### Description
-This file has a flag in plain sight (aka "in-the-clear")
+    This file has a flag in plain sight (aka "in-the-clear")
 
 ### Solving Steps
 1. Press **Download flag**.
@@ -29,8 +29,9 @@ This file has a flag in plain sight (aka "in-the-clear")
 tag: Easy, General Skills, picoCTF 2024, shell, ssh, browser_webshell_solvable
 
 ### Description
-Using a Secure Shell (SSH) is going to be pretty important.
-Additional details will be available after launching your challenge instance.
+    Using a Secure Shell (SSH) is going to be pretty important.
+
+    Additional details will be available after launching your challenge instance.
 
 ### Solving Steps
 1. Press **Launch Instance**, the current status changed from **NOT RUNNING** to **RUNNING**. The descrption updates to:
@@ -78,7 +79,7 @@ Additional details will be available after launching your challenge instance.
 tag: Easy, General Skills, picoCTF 2019
 
 ### Description
-Using netcat (nc) is going to be pretty important. Can you connect to jupiter.challenges.picoctf.org at port 25103 to get the flag?
+    Using netcat (nc) is going to be pretty important. Can you connect to jupiter.challenges.picoctf.org at port 25103 to get the flag?
 
 ### Solving Steps
 1. Open linux terminal.
