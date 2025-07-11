@@ -21,9 +21,7 @@ Cryptography can be easy, do you know what ROT13 is?
     ```
 
 ### Flag  
-    ```
     picoCTF{next_time_I'll_try_2_rounds_of_rot13_wqWOSBKW}
-    ```
 
 
 ### Notes  
@@ -60,9 +58,7 @@ What is 0x3D (base 16) in decimal (base 10)?
     ```
 
 ### Flag  
-    ```
     picoCTF{61}
-    ```
     
 ### Notes  
 - `0x` is a prefix that indicates a hexadecimal number.
@@ -105,9 +101,7 @@ Can you convert the number 42 (base 10) to binary (base 2)?
     ```
 
 ### Flag  
-    ```
     picoCTF{101010}
-    ```
     
 ### Notes  
 - This challenge tests basic understanding of number base conversions.
@@ -148,9 +142,7 @@ What does this bDNhcm5fdGgzX3IwcDM1 mean? I think it has something to do with ba
     ```
 
 ### Flag  
-    ```
     picoCTF{l3arn_th3_r0p35}
-    ```
 
 ### Notes  
 - The string was base64 encoded, a common encoding format that uses A-Z, a-z, 0-9, `+`, `/`, and `=` padding.

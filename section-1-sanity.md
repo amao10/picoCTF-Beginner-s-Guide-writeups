@@ -49,14 +49,15 @@ Additional details will be available after launching your challenge instance.
     ```
 4. When prompted with:
     ```
-    Are you sure you want to continue connecting (yes/no/[fingerprint])?```
-Enter:`yes`
+    Are you sure you want to continue connecting (yes/no/[fingerprint])?
+    ```
+    Enter:`yes`
 
 5. When ask for the password:
     ```
     ctf-player@titan.picoctf.net's password:
     ```
-Enter:`6abf4a82`
+    Enter:`6abf4a82`
 
 6. The terminal will print the flag:
     ```
