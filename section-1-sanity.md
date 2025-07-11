@@ -51,11 +51,13 @@ Additional details will be available after launching your challenge instance.
     ```
     Are you sure you want to continue connecting (yes/no/[fingerprint])?```
 Enter:`yes`
+
 5. When ask for the password:
     ```
     ctf-player@titan.picoctf.net's password:
     ```
 Enter:`6abf4a82`
+
 6. The terminal will print the flag:
     ```
     Welcome ctf-player, here's your flag: picoCTF{s3cur3_c0nn3ct10n_65a7a106}
@@ -63,9 +65,7 @@ Enter:`6abf4a82`
     ```
 
 ### Flag
-    ```
     picoCTF{s3cur3_c0nn3ct10n_65a7a106}
-    ```
 
 ### Notes
 - This challenge introduces basic usage of SSH to connect to remote machines.
@@ -92,10 +92,8 @@ Using netcat (nc) is going to be pretty important. Can you connect to jupiter.ch
     ```
 
 ### Flag
-    ```
     picoCTF{nEtCat_Mast3ry_d0c64587}
-    ```
-
+    
 ### Notes  
 - `nc` (netcat) is a command-line utility used to read and write data across network connections using TCP or UDP.
 - The syntax `nc <host> <port>` connects directly to a remote service.
