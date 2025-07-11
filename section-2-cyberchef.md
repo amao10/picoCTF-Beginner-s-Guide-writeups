@@ -4,8 +4,9 @@
 tag: Easy, Cryptography, picoCTF 2021
 
 ### Description  
-    Cryptography can be easy, do you know what ROT13 is?  
-    `cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_jdJBFOXJ}`
+Cryptography can be easy, do you know what ROT13 is?  
+
+`cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_jdJBFOXJ}`
 
 ### Solving Steps  
 1. Recognize that the string uses **ROT13**, a basic Caesar cipher where each letter is rotated by 13 places.
@@ -34,9 +35,9 @@ tag: Easy, Cryptography, picoCTF 2021
 tag: Easy, General Skills, picoCTF 2019
 
 ### Description
-    What is 0x3D (base 16) in decimal (base 10)?
+What is 0x3D (base 16) in decimal (base 10)?
 
-    **Hint**:Submit your answer in our flag format. For example, if your answer was '22', you would submit 'picoCTF{22}' as the flag.
+**Hint**:Submit your answer in our flag format. For example, if your answer was '22', you would submit 'picoCTF{22}' as the flag.
 
 ### Solving Steps  
 1. Recognize that `0x3D` is a hexadecimal (base 16) number.
@@ -73,9 +74,9 @@ tag: Easy, General Skills, picoCTF 2019
 tag: Easy, General Skills, picoCTF 2019
 
 ### Description
-    Can you convert the number 42 (base 10) to binary (base 2)?
+Can you convert the number 42 (base 10) to binary (base 2)?
 
-    **Hint**:Submit your answer in our competition's flag format. For example, if your answer was '11111', you would submit 'picoCTF{11111}' as the flag.
+**Hint**:Submit your answer in our competition's flag format. For example, if your answer was '11111', you would submit 'picoCTF{11111}' as the flag.
 
 ### Solving Steps
 1. Recognize that this is a base conversion: **decimal to binary**.
@@ -116,9 +117,9 @@ tag: Easy, General Skills, picoCTF 2019
 tag: Easy, General Skills, picoCTF 2019
 
 ### Description
-    What does this bDNhcm5fdGgzX3IwcDM1 mean? I think it has something to do with bases.
+What does this bDNhcm5fdGgzX3IwcDM1 mean? I think it has something to do with bases.
 
-    **Hint**:Submit your answer in our flag format. For example, if your answer was 'hello', you would submit 'picoCTF{hello}' as the flag.
+**Hint**:Submit your answer in our flag format. For example, if your answer was 'hello', you would submit 'picoCTF{hello}' as the flag.
 
 ### Solving Steps
 1. Recognize that the string `bDNhcm5fdGgzX3IwcDM1` is likely **base64 encoded**.
