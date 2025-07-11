@@ -35,7 +35,7 @@ This writeup documents my practical learning journey through picoCTF’s *Beginn
 - [PW Crack 4](section-4-python.md#pw-crack-4)
 - [PW Crack 5](section-4-python.md#pw-crack-5)
 
-#### [section 5](section-5.md)
+#### [Section 5](section-5.md)
 - [Enhance!](section-5.md#enhance)
 - [Big Zip](section-5.md#big-zip)
 - [vault-door-training](section-5.md#vault-door-training)
